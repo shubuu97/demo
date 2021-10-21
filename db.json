@@ -1,4 +1,5 @@
 {
+  {
   "student_details": {
   "id": 55844,
   "first_name": "Rodd",
@@ -80,5 +81,6 @@
   ],
   "sis_id": "55844",
   "student_number": "55844"
+}
 }
 }

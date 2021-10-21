@@ -9,56 +9,57 @@
   "school": {
     "uuid": "1022f6fa-3e8c-4fb2-b4ab-90e7cc00bee7",
     "pk": 57781,
-    "name": "SchooLinks High School",
+    "name": "SchooLinks High School"
   },
   "caseloads": [
     {
       "id": 416,
-      "name": "Seniors J-ZZ1",
+      "name": "Seniors J-ZZ1"
+    },
     {
       "id": 418,
-      "name": "Here's another caseload for sections",
+      "name": "Here's another caseload for sections"
     },
     {
       "id": 420,
-      "name": "Lemonade Raspberries",
+      "name": "Lemonade Raspberries"
     },
     {
       "id": 421,
-      "name": "GroupGroup",
+      "name": "GroupGroup"
     },
     {
       "id": 422,
-      "name": "GoodGrouperGravy",
+      "name": "GoodGrouperGravy"
     },
     {
       "id": 423,
-      "name": "Stew is Stewing in the Brew",
+      "name": "Stew is Stewing in the Brew"
     },
     {
       "id": 424,
-      "name": "Clickamadoo",
+      "name": "Clickamadoo"
     },
     {
       "id": 425,
-      "name": "Suoper Lbdsabsi",
+      "name": "Suoper Lbdsabsi"
     },
     {
       "id": 426,
-      "name": "Labi Siffre",
+      "name": "Labi Siffre"
     },
     {
       "id": 431,
-      "name": "Burnout",
+      "name": "Burnout"
     },
     {
       "id": 453,
-      "name": " (Grades 8-13 | Aaa-Zzz)",
+      "name": " (Grades 8-13 | Aaa-Zzz)"
     },
     {
       "id": 454,
-      "name": "June",
-    },
+      "name": "June"
+    }
   ],
   "personal_tags": [],
   "official_tags": [
@@ -77,5 +78,5 @@
     }
   ],
   "sis_id": "55844",
-  "student_number": "55844",
+  "student_number": "55844"
 }

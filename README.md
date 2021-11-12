@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/shubuu97/demo/questions](https://my-json-server.typicode.com/shubuu97/demo/questions)
 
 ## Use your own data
 
